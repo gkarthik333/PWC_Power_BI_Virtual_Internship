@@ -58,8 +58,7 @@
 
 ![Agents performance](https://github.com/user-attachments/assets/20719657-6e7c-4a45-b5d2-15518c2e9de1)
 
-# -----------------------------------------------------------------------------------------------------------------------
-<br><br>
+# ----------------------------------------------------------------------------
 # ✨ TASK 2 : Customer Churn Analysis
 » As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐡𝐮𝐫𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬" Dashboard, using Power BI.
 
