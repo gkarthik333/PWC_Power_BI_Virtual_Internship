@@ -58,7 +58,7 @@
 
 ![Agents performance](https://github.com/user-attachments/assets/20719657-6e7c-4a45-b5d2-15518c2e9de1)
 
-# ----------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # ✨ TASK 2 : Customer Churn Analysis
 » As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐡𝐮𝐫𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬" Dashboard, using Power BI.
 
@@ -128,11 +128,15 @@ It is observed that, customers with low tenure are churned more.
 
 • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's
 
+
 ![Home Page](https://github.com/user-attachments/assets/b16f5614-6f15-40fe-8c7f-3ea062776c0a)
+
 ![Churn Analysis snap](https://github.com/user-attachments/assets/e189f88a-81a5-47b5-82c3-0e1bb4ac0032)
+
 ![Customer Risk Analysis snap](https://github.com/user-attachments/assets/2a299c6a-089c-45b0-8a04-8226ad1eae9e)
-------------------------------------------------------------------------------------------------------------------------------------------------
-<br><br>
+
+# -------------------------------------------------------------------------------
+
 # ✨ 𝐓𝐚𝐬𝐤 𝟑 : Diversity & Inclusion Dashboard
 ► As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have developed a "𝐃𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 & 𝐈𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧" Dashboard using Power BI.
 
@@ -184,9 +188,12 @@ Monitoring % turnover - Men vs. Women, identify areas of concern, ensuring our w
 » The final goal is the practical approach to address gender balance challenges in the workplace. The goal is not only to set strategic objectives but also to measure, analyze, and continuously improve diversity and inclusion initiatives.
 
 ![Diversity and Inclusion snap](https://github.com/user-attachments/assets/24256b16-e6d7-46d0-b202-6e92fc712637)
+
 ![Workforce flow snap](https://github.com/user-attachments/assets/adaf3212-0ef5-4127-b83d-b9584a8303c7)
+
 ![Workforce Dempgraphics](https://github.com/user-attachments/assets/c950a804-1704-4ff8-88ff-23481f69d413)
 
+# -------------------------------------------------------------------------------
 
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
