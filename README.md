@@ -49,11 +49,16 @@
 » Optimizing agent allocation based on call volumes and topics could help in improving efficiency and customer service quality.
 
 ✅ These insights can serve as a foundation for further analysis and decision-making aimed at improving customer service operations and enhancing overall customer satisfaction.
+
 ![Home](https://github.com/user-attachments/assets/9a431c10-a7a4-486b-a98b-2fbd2881067d)
+
 ![Call Analysis](https://github.com/user-attachments/assets/df923f08-e9bc-47a8-84a4-563cc318cba0)
+
 ![Clients Satisfaction](https://github.com/user-attachments/assets/5c2a1e6a-9c8d-4e04-bd8d-4f390267fd9d)
+
 ![Agents performance](https://github.com/user-attachments/assets/20719657-6e7c-4a45-b5d2-15518c2e9de1)
------------------------------------------------------------------------------------------------------------------------
+
+# -----------------------------------------------------------------------------------------------------------------------
 <br><br>
 # ✨ TASK 2 : Customer Churn Analysis
 » As a part of the PwC Switzerland Virtual Internship Program offered by Forage, I have created a "𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐂𝐡𝐮𝐫𝐧 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬" Dashboard, using Power BI.
