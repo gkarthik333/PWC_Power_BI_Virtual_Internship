@@ -1,4 +1,4 @@
-# # <h1 align="center"> PWC Power-BI Virtual Internship </h1>
+# <h1 align="center"> PWC Power-BI Virtual Internship </h1>
 » During this program, I performed various tasks that helped me learn essential skills required for data analysis and data visualization using Power BI in a meaningful manner.
 
 # ✨ TASK 1 : Call Centre Analysis
